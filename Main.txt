@@ -1,1 +1,2 @@
 Sout("Hello!")
+sout("Привет")
