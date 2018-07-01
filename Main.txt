@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Sout("Hello!")
 sout("Привет")
 sout("Привет всем!")
-=======
-Sout("Hello!")
->>>>>>> parent of e296cfe... #2 привет русс
+sout("bye!")
+
